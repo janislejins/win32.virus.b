@@ -28,33 +28,39 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 
 #### Win32.CodeRed.A (2001)
 **USD$2.6b**
+
 *This worm infected over 359,000 computers, mostly infecting web servers as it exploited a vulnerability in web server software.*
 *It would send a long string of letters to a web server until it "overflowed" out of the safe area and executed the commands asked.*
 *This worm was used to launch attacks on many ip addresses when triggered, including ip address of the White House web server.*
 
 #### Win32.ILOVEYOU Love Letter Worm (2000)
 ** USD$8.7b**
+
 *One of the earliest, seriously damaging computer worms.*
 *It successfully attacked tens of millions of windows systems. It overwrote random files and emailed itself to all the addresses in the Windows Address Book.*
 *Because these emails camer from recognised addresses and people were more likely to click the file and infect their systems.*
 
 #### Win32.Klez.A (2001)
 **USD$19.8b**
+
 *This worm exploits Internet Explorers HTML renderer in Microsoft Outlook an Express, and hence was spread through email.*
 
 ### Win32.MyDoom.AA (2004-2009)
 ** USD$43.9b**
+
 *MyDoom holds the record for fastest spreading computer worm.*
 *It performed a DDoS on the infrastructure of controversial company "The SCO Group", presumably for the companies unethical software patent trolling of the open source software community. Later versions also targeted the Microsoft website and blocked anti-malware sites.*
 *Its intended purpose is only functional in an estimated 25% of the systems it infects.*
 
 ### Win32.NetSky.B (2004)
 **USD$2.0b**
+
 *NetSky is another prolific computer worm like Win32.MyDoom and was written by the same author as Win32.Sasser.*
 *This particular variant (Netsky.B) actually deleted MyDoom and Bagle worms.*
 
 ### Win32.Sasser.B (2004) 
 **USD$18.1b**
+
 *This worm spread virulently through a vulnerable port on Windows XP and Windows 2000.*
 *Some variants have been known to delete other worms.*
 
@@ -70,6 +76,7 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 
 ### Win32.Conficker.A (2008-current) 
 **USD$9.1b and counting**
+
 *The Conficker virus has been one of the most difficult to eradicate as authors seem to be frequently updating it so that it can evade antivirus measures and it makes use of encryption stronger than military grade to hinder tampering and make analysis difficult.*
 *It has been so difficult to eraticate that a colletion of high profile tech companies including Facebook, Microsoft, IBM, and ICANN have formed a working group to deal with the virus.*
 *The virus uses P2P commuinication and a variety of exploits to gain infection. It patches the vulnerabilities that previous variants used and listens for other infected machines attempting to exploit the system and updates them to the latest version when they do, as well as allowing more recent versions access.*
