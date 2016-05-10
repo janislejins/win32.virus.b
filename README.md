@@ -1,6 +1,8 @@
 # win32.virus.b
 Gallery Labels for artworks made by artist Janis Lejins using data procured by Gareth Dunstone
 
+#TEMPLATE BELOW
+
 
 #TITLE
 **Janis Lejins (1992), 2016**
@@ -10,3 +12,5 @@ Gallery Labels for artworks made by artist Janis Lejins using data procured by G
 Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival tape, ink. 
 
 **Virus procurred by computer scientist Gareth Dunstone (1990)**
+
+# GARETH INSERT YOUR BLURBS HERE
