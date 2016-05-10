@@ -13,4 +13,4 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 
 **Virus procurred by computer scientist Gareth Dunstone (1990)**
 
-# GARETH INSERT YOUR BLURBS HERE
+# G INSERT YOUR BLURBS HERE
