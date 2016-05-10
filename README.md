@@ -13,7 +13,6 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 
 **Virus procured by mad computer scientist Gareth Dunstone (1990)**
 
-# G INSERT YOUR BLURBS HERE
 #### Linux.Wirenet (2012)
 *The linux variant of the wirenet trojan, also comes in windows and OSX variants*  
 *Steals passwords from browsers and takes screenshots and sends the data to this server: 212.7.208.65*
@@ -34,7 +33,7 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 *This worm was used to launch attacks on many ip addresses when triggered, including ip address of the White House web server.*
 
 #### Win32.ILOVEYOU Love Letter Worm (2000)
-** USD$8.7b**
+**USD$8.7b**
 
 *One of the earliest, seriously damaging computer worms.*
 *It successfully attacked tens of millions of windows systems. It overwrote random files and emailed itself to all the addresses in the Windows Address Book.*
@@ -46,7 +45,7 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 *This worm exploits Internet Explorers HTML renderer in Microsoft Outlook an Express, and hence was spread through email.*
 
 ### Win32.MyDoom.AA (2004-2009)
-** USD$43.9b**
+**USD$43.9b**
 
 *MyDoom holds the record for fastest spreading computer worm.*
 *It performed a DDoS on the infrastructure of controversial company "The SCO Group", presumably for the companies unethical software patent trolling of the open source software community. Later versions also targeted the Microsoft website and blocked anti-malware sites.*
