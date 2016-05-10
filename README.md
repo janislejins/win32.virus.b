@@ -76,7 +76,7 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 ### Win32.Conficker.A (2008-current) 
 **USD$9.1b and counting**
 
-*The Conficker virus has been one of the most difficult to eradicate as authors seem to be frequently updating it so that it can evade antivirus measures and it makes use of encryption stronger than military grade to hinder tampering and make analysis difficult.*
+*The Conficker virus has been one of the most difficult to eradicate as the author (or authors) frequently update it so that it can evade antivirus measures. It also makes use of encryption stronger than military grade to hinder tampering and make analysis difficult.*
 *It has been so difficult to eraticate that a colletion of high profile tech companies including Facebook, Microsoft, IBM, and ICANN have formed a working group to deal with the virus.*
 *The virus uses P2P commuinication and a variety of exploits to gain infection. It patches the vulnerabilities that previous variants used and listens for other infected machines attempting to exploit the system and updates them to the latest version when they do, as well as allowing more recent versions access.*
 *Only variant E (the most recent) actually uses the system to do something other than infect other computers, it uses the system to send spam. Variant E also deletes itself and leaves a copy of the D variant on the system.*
