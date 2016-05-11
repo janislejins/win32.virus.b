@@ -50,16 +50,13 @@ Materials: 8GB USB infected with Win32.StuxNet Worm, frame, archival tape, ink.
 *This worm was used to launch attacks on many ip addresses when triggered, including ip address of the White House web server.*
 
 #### Win32.ILOVEYOU Love Letter Worm (2000)
-**USD$8.7b**
+****
 
-*One of the earliest, seriously damaging computer worms.*
-*It successfully attacked tens of millions of windows systems. It overwrote random files and emailed itself to all the addresses in the Windows Address Book.*
-*Because these emails camer from recognised addresses and people were more likely to click the file and infect their systems.*
+*Win32.ILOVEYOU was one of the earliest, seriously damaging computer worms. It successfully attacked tens of millions of windows systems. Then overwrote random files and emailed itself to all the addresses in the Windows Address Book. Because these emails came from recognised addresses people were more likely to click the file and infect their systems. There were an estimated USD$8.7 billion worth of damages.*
 
 #### Win32.Klez.A (2001)
-**USD$19.8b**
 
-*This worm exploits Internet Explorers HTML renderer in Microsoft Outlook an Express, and hence was spread through email.*
+*This worm exploits Internet Explorers HTML renderer in Microsoft Outlook Express, and hence was spread through email. It caused an estiemated USD$19.8 billion in damages *
 
 ### Win32.MyDoom.AA (2004-2009)
 **USD$43.9b**
