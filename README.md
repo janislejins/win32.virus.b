@@ -5,13 +5,27 @@ Gallery Labels for artworks made by artist Janis Lejins using data procured by G
 
 
 #TITLE
-**Janis Lejins (1992), 2016**
+**2016**
+
+Janis Lejins (B.1992), 
 
 *Description, Bibendum cras semper consequat ultrices lobortis purus nam ac, praesent rhoncus vel enim sollicitudin nunc tellus cubilia commodo cras varius vivamus felis malesuada Habitant convallis, orci donec quam semper bibendum.*
 
 Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival tape, ink. 
 
-**Virus procured by mad computer scientist Gareth Dunstone (1990)**
+**Virus procured by Gareth Dunstone (B.1990)**
+
+#Win32.StuxNet (c.2010)
+**2016**
+Janis Lejins (B.1992), 
+
+*The stuxnet worm is believed to be developed by the US Government bodies in coalition with Israeli Government. It was used to infect SCADA Windows computers with Programmable Logic Controllers. It was deployed in nuclear power plants in Iran and caused the centrifuges to shake themselves apart.*
+
+Materials: 8GB USB infected with Win32.StuxNet Worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+#BLURBS by GAZ
 
 #### Linux.Wirenet (2012)
 *The linux variant of the wirenet trojan, also comes in windows and OSX variants*  
