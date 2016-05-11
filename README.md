@@ -5,6 +5,7 @@ Gallery Labels for artworks made by artist Janis Lejins using data procured by G
 
 
 #TITLE
+
 **2016**
 
 Janis Lejins (B.1992), 
@@ -16,7 +17,9 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 **Virus procured by Gareth Dunstone (B.1990)**
 
 #Win32.StuxNet (c.2010)
+
 **2016**
+
 Janis Lejins (B.1992), 
 
 *The stuxnet worm is believed to be developed by the US Government bodies in coalition with Israeli Government. It was used to infect SCADA Windows computers with Programmable Logic Controllers. It was deployed in nuclear power plants in Iran and caused the centrifuges to shake themselves apart.*
