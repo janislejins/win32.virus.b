@@ -22,77 +22,149 @@ Materials: 8GB SD CARD|USB infected with X Virus|Worm - X Kb, frame, archival ta
 
 Janis Lejins (B.1992), 
 
-*The stuxnet worm is believed to be developed by the US Government in coalition with Israeli Government. It was used to infect SCADA Windows computers with Programmable Logic Controllers. It was deployed in nuclear power plants in Iran and caused the centrifuges to shake themselves apart.*
+*The stuxnet worm is believed to be developed by the US Government in coalition with Israeli Government. It was used to infect SCADA Windows computers with programmable logic controllers. These are commonly used in nuclear reactors and enrichment facilities. The worm infected nuclear infastructure in Iran and caused the centrifuges to shake themselves apart.*
 
-Materials: 8GB USB infected with Win32.StuxNet Worm, frame, archival tape, ink. 
+Materials: 8GB Memory infected with Win32.StuxNet Worm, frame, archival tape, ink. 
 
 **Virus procured by Gareth Dunstone (B.1990)**
 
-#BLURBS by GAZ
+-------
 
-#### Linux.Wirenet (2012)
-*The linux variant of the wirenet trojan, also comes in windows and OSX variants*  
-*Steals passwords from browsers and takes screenshots and sends the data to this server: 212.7.208.65*
-*Uses an encrypted configuration to prevent reverse engineering.*
+#Linux.Wirenet (c.2012)
 
-#### Win32.FileCoder/Cryptowall (2015-current)
-*Encrypts your files, and ransoms them for Bitcoins.*
-*A+ Terrifying.*
-*Cryptolocker variants are dreaded so much because there is no way (short of being the NSA) of getting encrypted files back, hence why a significant number of people pay up.*
-*The ransom cost increases at timepoints to encourage rapid payment.*
-*Version 4.0 uses P2P encrypted anonymising networks to connect to its command and control server and uses AES coupled with RSA algorithms to encrypt the victims files.*
+**2016**
 
-#### Win32.CodeRed.A (2001)
-**USD$2.6b**
+Janis Lejins (B.1992), 
 
-*This worm infected over 359,000 computers, mostly infecting web servers as it exploited a vulnerability in web server software.*
-*It would send a long string of letters to a web server until it "overflowed" out of the safe area and executed the commands asked.*
-*This worm was used to launch attacks on many ip addresses when triggered, including ip address of the White House web server.*
+*This is the linux variant of the wirenet trojan. It also comes in windows and OSX variants. This program steals passwords from browsers and takes screenshots then sends the data to the server: 212.7.208.65*
 
-#### Win32.ILOVEYOU Love Letter Worm (2000)
-****
+Materials: 8GB Memory infected with Linux.Wirenet Worm, frame, archival tape, ink. 
 
-*Win32.ILOVEYOU was one of the earliest, seriously damaging computer worms. It successfully attacked tens of millions of windows systems. Then overwrote random files and emailed itself to all the addresses in the Windows Address Book. Because these emails came from recognised addresses people were more likely to click the file and infect their systems. There were an estimated USD$8.7 billion worth of damages.*
+**Virus procured by Gareth Dunstone (B.1990)**
 
-#### Win32.Klez.A (2001)
+-------
 
-*This worm exploits Internet Explorers HTML renderer in Microsoft Outlook Express, and hence was spread through email. It caused an estiemated USD$19.8 billion in damages *
+#Win32.Cryptowall (2015-current)
 
-### Win32.MyDoom.AA (2004-2009)
-**USD$43.9b**
+**2016**
 
-*MyDoom holds the record for fastest spreading computer worm.*
-*It performed a DDoS on the infrastructure of controversial company "The SCO Group", presumably for the companies unethical software patent trolling of the open source software community. Later versions also targeted the Microsoft website and blocked anti-malware sites.*
-*Its intended purpose is only functional in an estimated 25% of the systems it infects.*
+Janis Lejins (B.1992), 
 
-### Win32.NetSky.B (2004)
-**USD$2.0b**
+*Cryptowall encrypts all of the files on the host's computer and then holds them for ransom for bit coins. There is no way of getting encrypted files back, hence why a significant number of people pay up. The ransom cost increases at set intervals to encourage rapid payment.*
 
-*NetSky is another prolific computer worm like Win32.MyDoom and was written by the same author as Win32.Sasser.*
-*This particular variant (Netsky.B) actually deleted MyDoom and Bagle worms.*
+Materials: 8GB Memory infected with Cryptowall Virus, frame, archival tape, ink. 
 
-### Win32.Sasser.B (2004) 
-**USD$18.1b**
+**Virus procured by Gareth Dunstone (B.1990)**
 
-*This worm spread virulently through a vulnerable port on Windows XP and Windows 2000.*
-*Some variants have been known to delete other worms.*
+-------
 
-### Win32.StuxNet (2010)
-*This worm was used to infect a very specific target: SCADA Windows computers with Programmable Logic Controllers, and was used to target the centrifuges in nuclear power plants in Iran, this caused the centrifuges to shake themselves apart.*
-*Stuxnet is believed by some to have been developed by US Government bodies in coalition with Israeli Government, however this remains controversial.*
+#Win32.CodeRed.A (2001)
 
-### Win32.Zbot Zeus/Zeus Gameover (2007, 2013)
-*This intercepts credit card information entered into a browser, gathers extensive private information (such as Bitcoin wallets and website logins) and uses the system to perform clickfraud.*
-*It also allows many other data collection features, allows an attacker to install a Bitcoin miner and is a frequent vector for ransomware installation.*
-*It operates using custom encrypted peer to peer updates, while also using a distributed Command and Control server architecture.*
-*This is one of the first instances of malware being developed exclusively for sale and is thought to originate in Russia. Packages can be bought for as little 6 Bitcoins rising up to 43 Bitcoins, and botnets created are frequently rented out on a neccesity basis.*
+**2016**
+
+Janis Lejins (B.1992), 
+
+*This worm infected over 359,000 computers, mostly webservers. The worm was then used to launch attacks on various ip addresses, including the White House. It has caused an estimated 2.6 billion dollars worth of damage.*
+
+Materials: 8GB Memory infected with Cryptowall Virus, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+-----------
+
+#Win32.ILOVEYOU Love Letter Worm (2000)
+
+**2016**
+
+Janis Lejins (B.1992), 
+
+*Win32.ILOVEYOU successfully attacked tens of millions of windows systems. The worm then overwrote random files and emailed itself to all the addresses in the Windows Address Book. There were an estimated USD$8.7 billion worth of damages.*
+
+Materials: 8GB Memory infected with the win32.ILOVEYOU worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+-----------
+
+# Win32.Klez.A (2001)
+
+**2016**
+
+Janis Lejins (B.1992),
+
+*This worm exploits Internet Explorers HTML renderer in Microsoft Outlook Express and was spread through email. It caused an estiemated USD$19.8 billion in damages *
+
+Materials: 8GB Memory infected with the Win32.Klez.A worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+-----------
+
+# Win32.MyDoom.AA (2004-2009)
+
+**2016**
+
+Janis Lejins (B.1992), 
+
+*MyDoom holds the record for fastest spreading computer worm. It performed a massive distributed denial of service attack on the controversial company "The SCO Group", presumably for the companies unethical software patent trolling of the open source software community. Later versions have also targeted the Microsoft website and blocked anti-malware sites. Its intended purpose is only functional in an estimated 25% of the systems it infects but has still caused an estimated $43.9 billion US in damages*
+
+Materials: 8GB Memory infected with the MyDoom worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+-----------
+
+# Win32.NetSky.B (2004)
+
+**2016**
+
+Janis Lejins (B.1992),
+
+*NetSky is another prolific computer worm like Win32.MyDoom, it was written by the same author as Win32.Sasser.*
+*This particular variant (Netsky.B) actually deleted MyDoom worms. It casued an estimated $2 billion US in damages*
+
+Materials: 8GB Memory infected with the NetSky worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+---------------
+
+# Win32.Sasser.B (2004) 
+
+**2016**
+
+Janis Lejins (B.1992),
+
+*This worm spread virulently through a vulnerable port on Windows XP and Windows 2000 and some variants have been known to delete other worms. It has caused an estimated $18.1 billion US dollars worth of damages*
+
+Materials: 8GB Memory infected with the Sasser worm, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+----------------------------
+
+# Win32.Zbot Zeus/Zeus Gameover (2007, 2013)
+
+**2016**
+
+Janis Lejins (B.1992),
+
+*This virus intercepts credit card information entered into a browser and gathers extensive private information (such as Bitcoin wallets and website logins) and uses the system in order to perform clickfraud. This is one of the first instances of malware being developed exclusively for sale and is thought to originate in Russia. Packages can be bought for as little 6 Bitcoins rising up to 43 Bitcoins, and botnets created are frequently rented out on a neccesity basis.*
+
+Materials: 8GB Memory infected with the Zeus virus, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
+
+----------------------------
 
 ### Win32.Conficker.A (2008-current) 
-**USD$9.1b and counting**
 
-*The Conficker virus has been one of the most difficult to eradicate as the author (or authors) frequently update it so that it can evade antivirus measures. It also makes use of encryption stronger than military grade to hinder tampering and make analysis difficult.*
-*It has been so difficult to eraticate that a colletion of high profile tech companies including Facebook, Microsoft, IBM, and ICANN have formed a working group to deal with the virus.*
-*The virus uses P2P commuinication and a variety of exploits to gain infection. It patches the vulnerabilities that previous variants used and listens for other infected machines attempting to exploit the system and updates them to the latest version when they do, as well as allowing more recent versions access.*
-*Only variant E (the most recent) actually uses the system to do something other than infect other computers, it uses the system to send spam. Variant E also deletes itself and leaves a copy of the D variant on the system.*
-*Microsoft posted a USD$250,000 bounty for information leading to the author.*
-*The bounty remains uncollected, the author remains unknown and known infected systems still number in the hundreds of thousands.*
+**2016**
+
+Janis Lejins (B.1992),
+
+*The Conficker virus has been one of the most difficult to eradicate as the author (or authors) frequently update it so that it can evade antivirus measures. It also makes use of encryption stronger than military grade to hinder tampering and make analysis difficult. A colletion of high profile tech companies including Facebook, Microsoft, IBM, and ICANN have formed a working group to deal with the virus. The virus patches the vulnerabilities that previous variants used and listens for other infected machines on other computers and and updates them to the latest version. Only variant E (the most recent) actually uses the system to do something other than infect other computers - it sends spam emails. Variant E also deletes itself and leaves a copy of the D variant on the system. Microsoft posted a USD$250,000 bounty for information leading to the author. Thia bounty remains uncollected, the author remains unknown and known infected systems still number in the hundreds of thousands and the damges are in excess of $9.1 billion US*
+
+Materials: 8GB Memory infected with the Conficker virus, frame, archival tape, ink. 
+
+**Virus procured by Gareth Dunstone (B.1990)**
