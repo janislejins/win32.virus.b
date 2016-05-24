@@ -140,7 +140,7 @@ Janis Lejins (B.1992),
 
 Materials: 8GB Memory infected with the Zeus virus, frame, archival tape, ink. 
 
-**Virus procured by Gareth Dunstone (B.1990)**
+Virus procured by Gareth Dunstone (B.1990)
 
 ----------------------------
 
@@ -154,4 +154,6 @@ Janis Lejins (B.1992),
 
 Materials: 8GB Memory infected with the Conficker virus, frame, archival tape, ink. 
 
-**Virus procured by Gareth Dunstone (B.1990)**
+Virus procured by Gareth Dunstone (B.1990)
+
+--------------------------------
