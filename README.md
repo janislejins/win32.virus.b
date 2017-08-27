@@ -1,8 +1,5 @@
-# win32.virus.b
-Gallery Labels for artworks made by artist Janis Lejins using data procured by Gareth Dunstone
-
-#labels
-
+# Virus Archive Information Sheet
+--------
 # Win32.StuxNet (c.2010)
 
 **2016**
@@ -115,3 +112,5 @@ Janis Lejins (B.1992),
 Materials: 8GB Memory infected with the Conficker virus, frame, archival tape, ink. 
 
 --------------------------------
+**Viruses and and additional data procured by Gareth Dunstone **
+
